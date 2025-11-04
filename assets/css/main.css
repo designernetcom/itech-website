@@ -196,8 +196,8 @@ p {
   color: #595959;
   font-size: 16px;
   font-weight: 400;
-  margin-bottom: 15px;
-  line-height: 26px;
+  margin-bottom: 10px;
+  line-height: 22px;
 }
 
 a {
@@ -936,10 +936,10 @@ figure {
   font-weight: 600;
   line-height: 28px;
   text-transform: uppercase;
-  margin-left: 45px;
+  /* margin-left: 45px; */
 }
 
-.section-sub-title:before {
+/* .section-sub-title:before {
   content: "\e92c";
   font-family: "icomoon";
   color: var(--theme-color);
@@ -954,7 +954,7 @@ figure {
   justify-content: start;
   align-items: center;
   border-radius: 50px;
-}
+} */
 
 .section-sub-title.no-border:before {
   border: none;
